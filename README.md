@@ -1,2 +1,2 @@
-# ECG-Bridge
-Development for an ECG device capable of connecting to smartphones and display heart rate information
+# EMG-Bridge
+Development for an EMG-Device capable of displaying EMG data on smartphones
