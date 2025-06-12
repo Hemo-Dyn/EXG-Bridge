@@ -7,6 +7,8 @@ Data would still only be displayed on the computer. The design for the ECG circu
 ## Schematic
 ![EMG Schematic](../images/EMG-Bridge.png)
 
+This video would be useful for learning how to design [arduino shields](https://www.reddit.com/r/arduino/comments/113puqw/i_recorded_the_whole_process_of_designing_a/)
+
 ## Next Phase
 The next phase will focus on moving away from the arduino environment to use stm32 or esp32 microcontrollers. The idea being that following this step, a more compact design could be acomplished.
 A PCB could be manufactured that houses both the microcontroller of this device and the EMG circuit. 
