@@ -142,7 +142,7 @@
 	(net 23 "/TX{slash}1")
 	(net 24 "/*3")
 	(net 25 "/RX{slash}0")
-	(net 26 "+3V3")
+	(net 26 "unconnected-(J1-Pin_4-Pad4)")
 	(net 27 "VCC")
 	(net 28 "/~{RESET}")
 	(net 29 "+9V")
@@ -437,9 +437,9 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 26 "+3V3")
+			(net 26 "unconnected-(J1-Pin_4-Pad4)")
 			(pinfunction "Pin_4")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "2e271cff-dc8a-4067-84a7-d81471489844")
 		)
 		(pad "5" thru_hole oval
@@ -1506,7 +1506,7 @@
 	(footprint "Capacitor_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "08137187-5355-47cb-9154-264cad0b03cf")
-		(at 73.5 127.065)
+		(at 73.65 126.45)
 		(descr "CP, Axial series, Axial, Horizontal, pin pitch=15mm, , length*diameter=10*4.5mm^2, Electrolytic Capacitor, , http://www.vishay.com/docs/28325/021asm.pdf")
 		(tags "CP Axial series Axial Horizontal pin pitch 15mm  length 10mm diameter 4.5mm Electrolytic Capacitor")
 		(property "Reference" "C1"
