@@ -1,4 +1,4 @@
-23853624514604157
+23855379107108447
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64703,6 +64703,13 @@ DIL08
 LM358
 SO08
 <b>Small Outline Package 8</b><br>NS Package M08A
+
+0
+8
+8
+LM358P
+DIP794W45P254L959H508Q8
+
 
 0
 8
