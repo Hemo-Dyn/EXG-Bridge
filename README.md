@@ -1,2 +1,2 @@
-# EMG-Bridge
-Development for an EMG-Device capable of displaying EMG data on smartphones
+# EXG-Bridge
+Ongoing development for ECG and EMG hardware interfacing with iPhones to present heartrate and muscular data
