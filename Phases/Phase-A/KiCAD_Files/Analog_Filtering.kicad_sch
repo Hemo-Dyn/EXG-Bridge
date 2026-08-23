@@ -1907,7 +1907,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13349c8f-7617-4f92-ac0a-5f0277c2c49f")
-		(property "Reference" "R?"
+		(property "Reference" "R5"
 			(at 101.6 82.55 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1969,7 +1969,7 @@
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "R?")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -1987,7 +1987,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "29e5fe74-51e8-4fa1-849a-8550a1eca672")
-		(property "Reference" "U?"
+		(property "Reference" "U2"
 			(at 163.83 69.85 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2151,7 +2151,7 @@
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "U?")
+					(reference "U2")
 					(unit 2)
 				)
 			)
@@ -2169,7 +2169,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3ecbb6c6-98a4-4855-b545-a571b562261e")
-		(property "Reference" "U?"
+		(property "Reference" "U1"
 			(at 86.36 102.362 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2333,7 +2333,7 @@
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "U?")
+					(reference "U1")
 					(unit 2)
 				)
 			)
@@ -2350,7 +2350,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "41a60261-12bd-48b8-831b-8c47ead4e7db")
-		(property "Reference" "R?"
+		(property "Reference" "R11"
 			(at 187.96 74.9299 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2414,7 +2414,7 @@
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "R?")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -2432,7 +2432,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5352cfda-2bc4-4cb8-bb45-a5929ae62550")
-		(property "Reference" "R?"
+		(property "Reference" "R7"
 			(at 118.11 55.88 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2494,7 +2494,7 @@
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "R?")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -2590,7 +2590,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5b9a6eb2-5f72-4fb4-ab27-e34267e4ad3a")
-		(property "Reference" "C?"
+		(property "Reference" "C2"
 			(at 63.5 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2652,7 +2652,7 @@
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "C?")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -2670,7 +2670,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5e587179-d4ca-4282-aaba-e539bb75afdd")
-		(property "Reference" "C?"
+		(property "Reference" "C1"
 			(at 63.5 49.53 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2732,7 +2732,7 @@
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "C?")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -2750,7 +2750,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5e94b681-e671-4d4a-8775-66a4dc537b1e")
-		(property "Reference" "R?"
+		(property "Reference" "R6"
 			(at 110.49 93.9799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2814,7 +2814,7 @@
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "R?")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -2832,7 +2832,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "867e427e-ae11-47ee-8ce9-bdbc797f3975")
-		(property "Reference" "U?"
+		(property "Reference" "U1"
 			(at 86.36 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2970,33 +2970,33 @@
 			)
 		)
 		(pin "8"
-			(uuid "e5842569-9e84-41e3-804d-f34a09e36635")
+			(uuid "e5842569-9e84-41e3-804d-f34a09e36636")
 		)
 		(pin "3"
-			(uuid "7e412e60-8833-42d4-bca1-896d390551c1")
+			(uuid "7e412e60-8833-42d4-bca1-896d390551c2")
 		)
 		(pin "5"
-			(uuid "c400f32d-e887-4698-a9ee-9f89b5952b37")
+			(uuid "c400f32d-e887-4698-a9ee-9f89b5952b38")
 		)
 		(pin "1"
-			(uuid "a91465ff-635a-45e9-aa32-55d102ab88de")
+			(uuid "a91465ff-635a-45e9-aa32-55d102ab88df")
 		)
 		(pin "6"
-			(uuid "cded7545-423e-4ee6-bf7c-d9c6978f7fb4")
+			(uuid "cded7545-423e-4ee6-bf7c-d9c6978f7fb5")
 		)
 		(pin "2"
-			(uuid "f53fe473-a4d6-4029-8141-ad47b221622a")
+			(uuid "f53fe473-a4d6-4029-8141-ad47b221622b")
 		)
 		(pin "7"
-			(uuid "1c471188-cfbd-4682-a0fb-7da8342c46da")
+			(uuid "1c471188-cfbd-4682-a0fb-7da8342c46db")
 		)
 		(pin "4"
-			(uuid "181dfc8d-4ba9-4cd1-aeac-d7a060e29de9")
+			(uuid "181dfc8d-4ba9-4cd1-aeac-d7a060e29dea")
 		)
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "U?")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -3014,7 +3014,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "89b37574-b7c0-4262-8358-8d11e66b129d")
-		(property "Reference" "C?"
+		(property "Reference" "C5"
 			(at 193.04 88.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3078,7 +3078,7 @@
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "C?")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -3096,7 +3096,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ea54036-0304-482b-9fe1-09644b2bc3cb")
-		(property "Reference" "U?"
+		(property "Reference" "U2"
 			(at 148.59 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3262,7 +3262,7 @@
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "U?")
+					(reference "U2")
 					(unit 3)
 				)
 			)
@@ -3279,7 +3279,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9ec4cc40-d1cc-4fe5-b375-6eeff670e41b")
-		(property "Reference" "R?"
+		(property "Reference" "R9"
 			(at 153.67 57.1499 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3343,7 +3343,7 @@
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "R?")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -3361,7 +3361,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa05dce4-dc61-4ac5-9188-0e14c8e015e2")
-		(property "Reference" "R?"
+		(property "Reference" "R3"
 			(at 86.36 82.55 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3423,7 +3423,7 @@
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "R?")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -3441,7 +3441,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bcdceda8-e7c8-486b-bf72-51c7e2aff812")
-		(property "Reference" "U?"
+		(property "Reference" "U3"
 			(at 210.82 72.39 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3605,7 +3605,7 @@
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "U?")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -3623,7 +3623,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bd81e78b-5bc6-4468-a082-9c9dc9d368a3")
-		(property "Reference" "C?"
+		(property "Reference" "C3"
 			(at 133.35 69.85 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3685,7 +3685,7 @@
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "C?")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -3703,7 +3703,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d1e96a54-06cc-4b0f-8ab8-69df7cfbe62d")
-		(property "Reference" "U?"
+		(property "Reference" "U3"
 			(at 165.1 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3852,24 +3852,24 @@
 			(uuid "c57ebce2-bad7-401f-abf8-c5ea49313694")
 		)
 		(pin "5"
-			(uuid "df0fdf5e-ec86-41f2-87e5-35178d1f00f3")
+			(uuid "df0fdf5e-ec86-41f2-87e5-35178d1f00f4")
 		)
 		(pin "8"
-			(uuid "c6592e81-0292-4b63-a41f-a6d21f64fdba")
+			(uuid "c6592e81-0292-4b63-a41f-a6d21f64fdbb")
 		)
 		(pin "4"
-			(uuid "bb4738d3-5de8-4ae7-bc08-24904eadd4dd")
+			(uuid "bb4738d3-5de8-4ae7-bc08-24904eadd4de")
 		)
 		(pin "6"
-			(uuid "d4b0954f-a987-4199-b9d3-256ae62fe9d9")
+			(uuid "d4b0954f-a987-4199-b9d3-256ae62fe9da")
 		)
 		(pin "7"
-			(uuid "2b939b00-da9d-4cec-bf8e-125a679e0bff")
+			(uuid "2b939b00-da9d-4cec-bf8e-125a679e0c00")
 		)
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "U?")
+					(reference "U3")
 					(unit 3)
 				)
 			)
@@ -3886,7 +3886,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d2ab102d-4b02-4b94-b5e5-1e5e4eda0d49")
-		(property "Reference" "U?"
+		(property "Reference" "U1"
 			(at 132.08 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4026,33 +4026,33 @@
 			)
 		)
 		(pin "8"
-			(uuid "e5842569-9e84-41e3-804d-f34a09e36635")
+			(uuid "e5842569-9e84-41e3-804d-f34a09e36637")
 		)
 		(pin "3"
-			(uuid "7e412e60-8833-42d4-bca1-896d390551c1")
+			(uuid "7e412e60-8833-42d4-bca1-896d390551c3")
 		)
 		(pin "5"
-			(uuid "c400f32d-e887-4698-a9ee-9f89b5952b37")
+			(uuid "c400f32d-e887-4698-a9ee-9f89b5952b39")
 		)
 		(pin "1"
-			(uuid "a91465ff-635a-45e9-aa32-55d102ab88de")
+			(uuid "a91465ff-635a-45e9-aa32-55d102ab88e0")
 		)
 		(pin "6"
-			(uuid "cded7545-423e-4ee6-bf7c-d9c6978f7fb4")
+			(uuid "cded7545-423e-4ee6-bf7c-d9c6978f7fb6")
 		)
 		(pin "2"
-			(uuid "f53fe473-a4d6-4029-8141-ad47b221622a")
+			(uuid "f53fe473-a4d6-4029-8141-ad47b221622c")
 		)
 		(pin "7"
-			(uuid "1c471188-cfbd-4682-a0fb-7da8342c46da")
+			(uuid "1c471188-cfbd-4682-a0fb-7da8342c46dc")
 		)
 		(pin "4"
-			(uuid "181dfc8d-4ba9-4cd1-aeac-d7a060e29de9")
+			(uuid "181dfc8d-4ba9-4cd1-aeac-d7a060e29deb")
 		)
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "U?")
+					(reference "U1")
 					(unit 3)
 				)
 			)
@@ -4070,7 +4070,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d8424d21-1aea-46f0-b9cd-6e1b8c43c14c")
-		(property "Reference" "R?"
+		(property "Reference" "R8"
 			(at 148.59 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4134,7 +4134,7 @@
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "R?")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -4151,7 +4151,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d971c7bd-d4a4-4f54-ba17-6beb536a3d85")
-		(property "Reference" "R?"
+		(property "Reference" "R10"
 			(at 177.8 74.9299 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4215,7 +4215,7 @@
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "R?")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -4232,7 +4232,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "da9a3da3-3dcf-43fe-8da2-0581635d218f")
-		(property "Reference" "R?"
+		(property "Reference" "R2"
 			(at 86.106 70.866 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4294,7 +4294,7 @@
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "R?")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -4311,7 +4311,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ea6f0681-2469-4456-8ae9-841d5d337313")
-		(property "Reference" "R?"
+		(property "Reference" "R1"
 			(at 62.992 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4375,7 +4375,7 @@
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "R?")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -4394,7 +4394,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f12988fe-02a7-4632-bdb0-2f90c645d85b")
-		(property "Reference" "U?"
+		(property "Reference" "U2"
 			(at 119.38 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4558,7 +4558,7 @@
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "U?")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -4576,7 +4576,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5021eeb-8536-4817-83c6-aef9cb73b330")
-		(property "Reference" "C?"
+		(property "Reference" "C4"
 			(at 143.51 69.85 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4638,7 +4638,7 @@
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "C?")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -4656,7 +4656,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f887a28f-b79e-4140-92ef-36f911993251")
-		(property "Reference" "R?"
+		(property "Reference" "R4"
 			(at 101.6 60.96 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4718,7 +4718,7 @@
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "R?")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -4735,7 +4735,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f9e506e6-d93c-42a2-926d-4d53d5ab076d")
-		(property "Reference" "C?"
+		(property "Reference" "C6"
 			(at 200.66 58.4199 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4799,7 +4799,7 @@
 		(instances
 			(project "KiCAD_Files"
 				(path "/1a22c328-b2bb-4d71-933f-a069c99db071/3d3b4737-a26d-497e-96ed-58c99ade29b8"
-					(reference "C?")
+					(reference "C6")
 					(unit 1)
 				)
 			)
