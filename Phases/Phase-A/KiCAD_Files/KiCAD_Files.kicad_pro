@@ -429,17 +429,13 @@
         "uuid": "1a22c328-b2bb-4d71-933f-a069c99db071"
       }
     ],
-    "used_designators": "U1-3,R1-11,C1-6,#PWR1-5",
+    "used_designators": "U1-3,R1-11,C1-6,#PWR1-5,#PWR52-57",
     "variants": []
   },
   "sheets": [
     [
       "1a22c328-b2bb-4d71-933f-a069c99db071",
       "Root"
-    ],
-    [
-      "3d3b4737-a26d-497e-96ed-58c99ade29b8",
-      "Filtering"
     ]
   ],
   "text_variables": {},
